@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://mern-task-management-app-iigk.onrender.com",
+  "proxy": "https://task-management-app-fev5.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
